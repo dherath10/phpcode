@@ -1,0 +1,14 @@
+Linux Commands
+
+ls -al
+ls 
+ls -l
+ll
+cd 
+mkdir
+rm
+cp
+cat
+>>
+pwd
+
